@@ -1,2 +1,3 @@
 Este é o conteudo do curso.
 Vivendo e aprendendo.
+Mesclando branch e master.
