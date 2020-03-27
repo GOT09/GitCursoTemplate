@@ -4,3 +4,6 @@ Mesclando branch e master.
 dadadadadad
 313131
 1311
+FILE 1
+FILE 2
+FILE 3
