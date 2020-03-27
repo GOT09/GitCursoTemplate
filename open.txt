@@ -1,3 +1,6 @@
 Este é o cTnteudo do curso.
 Vivendo e aprendendo.
 Mesclando branch e master.
+FILE 1
+FILE 2
+FILE 3
