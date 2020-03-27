@@ -1,3 +1,3 @@
-Este é o cTnteudo do curso.
+Este é o conteudo do curso.
 Vivendo e aprendendo.
 Mesclando branch e master.
